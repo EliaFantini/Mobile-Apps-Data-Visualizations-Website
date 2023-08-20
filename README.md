@@ -1,21 +1,28 @@
-# Project of Data Visualization (COM-480)
+<p align="center">
+  <img alt="📈 Mobile_Apps_Data_Visualizations " src="https://github.com/EliaFantini/Mobile-Apps-Data-Visualizations-Website/assets/62103572/603e0da9-9ba1-4528-9e13-065f6abde299">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/EliaFantini/Mobile-Apps-Data-Visualizations-Website">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliaFantini/Mobile-Apps-Data-Visualizations-Website">
+  <img alt="GitHub code size" src="https://img.shields.io/github/languages/code-size/EliaFantini/Mobile-Apps-Data-Visualizations-Website">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EliaFantini/Mobile-Apps-Data-Visualizations-Website">
+  <img alt="GitHub follow" src="https://img.shields.io/github/followers/EliaFantini?label=Follow">
+  <img alt="GitHub fork" src="https://img.shields.io/github/forks/EliaFantini/Mobile-Apps-Data-Visualizations-Website?label=Fork">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/EliaFantini/Mobile-Apps-Data-Visualizations-Website?abel=Watch">
+  <img alt="GitHub star" src="https://img.shields.io/github/stars/EliaFantini/Mobile-Apps-Data-Visualizations-Website?style=social">
+</p>
 
-| Student's name | SCIPER |
-| -------------- | ------ |
-| Elia Fantini | 336006 |
-| Konrad Litwiński | 353647 | 
-| Adrien Vauthey | 301289 |
+This repository contains the code for the website containing Data Visualizations about Mobile Apps made in the frame of the Data Visualization (COM-480) project.
 
-[Milestone 1](#milestone-1-7th-april-5pm) • [Milestone 2](#milestone-2-7th-may-5pm) • [Milestone 3](#milestone-3-4th-june-5pm)
+Here is our website: [App Data Visualization](https://com-480-data-visualization.github.io/project-2023-insightsquad/website/index.html)
 
-## Milestone 1 (7th April, 5pm)
+You can read the process book [here](https://github.com/com-480-data-visualization/project-2023-insightsquad/blob/master/Process%20Book.pdf)
 
-**10% of the final grade**
+The screencast of our website is accessible [here](https://drive.google.com/file/d/1TklwnKdvZ8M-itjKdlLYV5mVrG0qgubE/view?usp=sharing)
 
-This is a preliminary milestone to let you set up goals for your final project and assess the feasibility of your ideas.
-Please, fill the following sections about your project.
+## Authors 
 
-*(max. 2000 characters per section)*
+-  [Fantini Elia](https://github.com/EliaFantini)
+-  [Adrien Vauthey](https://github.com/Lugiasc)
+-  [Konrad Litwiński](https://github.com/MirazSpecial)
 
 ### Dataset
 
@@ -57,11 +64,41 @@ Among those, we found the first two full of very creative ideas, and we could le
 
 Following these great examples, we'll try to create our own original and unique visualization.
 
-## Milestone 2 (7th May, 5pm)
+# Local Website Setup Guide
 
-**10% of the final grade**
+This guide will walk you through the process of running a website locally on your machine. You will need to download the project repository, open it with Visual Studio Code (VSCode), and use Live Server to host the website.
 
-The initial website of our website is accessible [here](https://com-480-data-visualization.github.io/project-2023-insightsquad/website/index.html)
+## Prerequisites
+
+Before you begin, make sure you have the following installed on your machine:
+
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Live Server Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+## Step 1: Download the Project Repository
+
+1. Create a new folder on your machine where you want to store the project.
+2. Download the project repository files and extract them into the folder you just created.
+
+## Step 2: Open the Project in VSCode
+
+1. Open Visual Studio Code (VSCode).
+2. Click on "File" in the top menu and select "Open Folder".
+3. Navigate to the folder where you extracted the project repository files and select it.
+4. VSCode will open the project folder.
+
+## Step 3: Install and Use Live Server
+
+1. Open the Extensions view in VSCode by clicking on the square icon on the left sidebar or by pressing `Ctrl+Shift+X`.
+2. Search for "Live Server" in the search bar.
+3. Click on "Install" to install the Live Server extension.
+4. Once the extension is installed, you will see a "Go Live" button at the bottom-right corner of the VSCode window. Click on it.
+5. A new browser tab will open, and you will see your website running locally using Live Server.
+
+
+That's it! Any changes you make to the project files will automatically be reflected in the browser. 
+
+# Design of the website
 
 #### Table of contents:
   * [Website description](#website-description)
@@ -141,52 +178,12 @@ Scikit-learn library  for more complex statistic to be done on the data.
 - Lecture 11.1: Stacked area chart, Sankey diagram.
 - Lecture 12.1: About how to display a chart to be more appealing and telling for the information we want to show, what kind of fonts to choose.
 
+## 🛠 Skills
 
 
+## 🔗 Links
 
-
-## Milestone 3 (4th June, 5pm)
-
-**80% of the final grade**
-
-Here is our website: [App Data Visualization](https://com-480-data-visualization.github.io/project-2023-insightsquad/website/index.html)
-
-You can read the process book [here](https://github.com/com-480-data-visualization/project-2023-insightsquad/blob/master/Process%20Book.pdf)
-
-The screencast of our website is accessible [here](https://drive.google.com/file/d/1TklwnKdvZ8M-itjKdlLYV5mVrG0qgubE/view?usp=sharing)
-
-# Local Website Setup Guide
-
-This guide will walk you through the process of running a website locally on your machine. You will need to download the project repository, open it with Visual Studio Code (VSCode), and use Live Server to host the website.
-
-## Prerequisites
-
-Before you begin, make sure you have the following installed on your machine:
-
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- [Live Server Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-
-## Step 1: Download the Project Repository
-
-1. Create a new folder on your machine where you want to store the project.
-2. Download the project repository files and extract them into the folder you just created.
-
-## Step 2: Open the Project in VSCode
-
-1. Open Visual Studio Code (VSCode).
-2. Click on "File" in the top menu and select "Open Folder".
-3. Navigate to the folder where you extracted the project repository files and select it.
-4. VSCode will open the project folder.
-
-## Step 3: Install and Use Live Server
-
-1. Open the Extensions view in VSCode by clicking on the square icon on the left sidebar or by pressing `Ctrl+Shift+X`.
-2. Search for "Live Server" in the search bar.
-3. Click on "Install" to install the Live Server extension.
-4. Once the extension is installed, you will see a "Go Live" button at the bottom-right corner of the VSCode window. Click on it.
-5. A new browser tab will open, and you will see your website running locally using Live Server.
-
-That's it! Any changes you make to the project files will automatically be reflected in the browser. 
-
+[![My portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eliafantini.github.io/Portfolio/)
+[![My linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-elia-fantini/)
 
 
